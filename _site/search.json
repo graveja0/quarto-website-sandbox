@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "quarto-website-sandbox",
     "section": "",
-    "text": "Static webpages\nPresentations\nShiny Apps\nInteractive tutorials.\n\nIn addition, we’ll play around with CSS styling and publishing."
+    "text": "Static webpages\nPresentations\nShiny Apps\nInteractive tutorials.\n\nIn addition, we’ll play around with CSS styling and publishing.\n\nWorkflow\n\nCreated a new Quarto website project within Rstudio.\nCreated some new content (e.g., presentation, static doc, etc.)\nCommitted locally, then connected to github using usethis::use_github()"
   },
   {
     "objectID": "about.html",
@@ -26,5 +26,12 @@
     "title": "static-document",
     "section": "",
     "text": "This is a static quarto document."
+  },
+  {
+    "objectID": "shiny.html",
+    "href": "shiny.html",
+    "title": "Shiny",
+    "section": "",
+    "text": "This is a shiny doc."
   }
 ]

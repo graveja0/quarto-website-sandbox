@@ -10,3 +10,12 @@ This is John's Quarto website sandbox. Our objective here is to provide a one-st
 4.  Interactive tutorials.
 
 In addition, we'll play around with CSS styling and publishing.
+
+# Workflow
+
+1.  Created a new Quarto website project within Rstudio.
+
+2.  Created some new content (e.g., presentation, static doc, etc.)
+
+3.  Committed locally, then connected to github using usethis::use_github()
+
