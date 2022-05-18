@@ -1,0 +1,5 @@
+---
+title: "static-document"
+---
+
+This is a static quarto document.

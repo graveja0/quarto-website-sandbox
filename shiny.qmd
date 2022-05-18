@@ -1,0 +1,6 @@
+---
+title: "Shiny"
+server: shiny
+---
+
+This is a shiny doc.

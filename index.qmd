@@ -1,0 +1,12 @@
+---
+title: "quarto-website-sandbox"
+---
+
+This is John's Quarto website sandbox. Our objective here is to provide a one-stop shop for building out a course/workshop website with the following functionality:
+
+1.  Static webpages
+2.  Presentations
+3.  Shiny Apps
+4.  Interactive tutorials.
+
+In addition, we'll play around with CSS styling and publishing.

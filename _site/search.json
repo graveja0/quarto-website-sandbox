@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto-website-sandbox",
+    "section": "",
+    "text": "Static webpages\nPresentations\nShiny Apps\nInteractive tutorials.\n\nIn addition, we’ll play around with CSS styling and publishing."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "presentation-1.html#slide-1",
+    "href": "presentation-1.html#slide-1",
+    "title": "presentation-1",
+    "section": "Slide 1",
+    "text": "Slide 1\n\nSlide content"
+  },
+  {
+    "objectID": "static-document.html",
+    "href": "static-document.html",
+    "title": "static-document",
+    "section": "",
+    "text": "This is a static quarto document."
+  }
+]
